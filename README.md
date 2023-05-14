@@ -50,7 +50,7 @@ If the app is not recognizing the posters or the videos are not playing, make su
 
 ## Authors
 
-- Your Name
+- Sudhersan K V
 
 ## Acknowledgments
 
